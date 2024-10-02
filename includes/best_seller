@@ -1,0 +1,10 @@
+ALTER TABLE courses ADD COLUMN (best_seller varchar(255));
+ALTER TABLE subject ADD COLUMN (subject53 varchar(255));
+ALTER TABLE progress ADD COLUMN (progress54 varchar(255));
+ALTER TABLE `subject` CHANGE `sub` `subject71` TEXT NOT NULL; 
+CREATE TABLE time_table(id int AUTO_INCREMENT PRIMARY KEY, user_id int,monday  varchar(255),tuesday  varchar(255),wednesday  varchar(255),thursday  varchar(255),firday  varchar(255),saturday  varchar(255),sunday  varchar(255));
+ALTER TABLE progress DROP COLUMN progress34;
+CREATE TABLE test_driving(id int PRIMARY kEY AUTO_INCREMENT,user_id int,ddate varchar(255), dtime varchar(255),location varchar(255) , Comments varchar(255) );
+ALTER TABLE courses ADD COLUMN seller varchar(255);
+
+ALTER TABLE user_registration ADD COLUMN (cmnts varchar(255));

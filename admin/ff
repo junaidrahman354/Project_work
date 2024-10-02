@@ -1,0 +1,348 @@
+ <select id="list" name="progress8" class="mt-5">
+                                <option id="lable"><?php echo $data['subject8'] ?></option>
+                                <option id="1" value="1">1</option>
+                                <option id="2" value="2">2</option>
+                                <option id="3" value="3">3</option>
+                                <option id="4" value="4">4</option>
+                                <option id="5" value="5">5</option>
+                                <option id="6" value="6">6</option>
+                            </select><br>
+                            <select id="list" name="progress9" class="mt-5">
+                                <option id="lable"><?php echo $data['subject9'] ?></option>
+                                <option id="1" value="1">1</option>
+                                <option id="2" value="2">2</option>
+                                <option id="3" value="3">3</option>
+                                <option id="4" value="4">4</option>
+                                <option id="5" value="5">5</option>
+                                <option id="6" value="6">6</option>
+                            </select><br>
+                            <select id="list" name="progress10" class="mt-5">
+                                <option id="lable"><?php echo $data['subject10'] ?></option>
+                                <option id="1" value="1">1</option>
+                                <option id="2" value="2">2</option>
+                                <option id="3" value="3">3</option>
+                                <option id="4" value="4">4</option>
+                                <option id="5" value="5">5</option>
+                                <option id="6" value="6">6</option>
+                            </select><br>
+                            <select id="list" name="progress12" class="mt-5">
+                                <option id="lable"><?php echo $data['subject12'] ?></option>
+                                <option id="1" value="1">1</option>
+                                <option id="2" value="2">2</option>
+                                <option id="3" value="3">3</option>
+                                <option id="4" value="4">4</option>
+                                <option id="5" value="5">5</option>
+                                <option id="6" value="6">6</option>
+                            </select><br>
+                            <select id="list" name="progress32" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject32'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress33" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject33'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress34" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject34'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress35" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject35'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress36" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject36'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress37" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject37'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress38" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject38'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress39" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject39'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress40" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject40'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress52" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject52'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress41" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject41'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+
+
+          <select id="list" name="progress38" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject38'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress39" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject39'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress40" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject40'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress52" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject52'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress41" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject41'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress42" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject42'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress43" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject43'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress44" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject44'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress45" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject45'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress46" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject46'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress47" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject47'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress48" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject48'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress49" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject49'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress50" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject50'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+          <select id="list" name="progress51" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject51'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+
+          <select id="list" name="progress52" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject52'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
+
+          <select id="list" name="progress53" class="mt-5">
+            <option id="lable">
+              <?php echo $data['subject53'] ?>
+            </option>
+            <option id="1" value="1">1</option>
+            <option id="2" value="2">2</option>
+            <option id="3" value="3">3</option>
+            <option id="4" value="4">4</option>
+            <option id="5" value="5">5</option>
+            <option id="6" value="6">6</option>
+          </select><br>
